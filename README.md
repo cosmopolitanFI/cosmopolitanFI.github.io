@@ -1,2 +1,2 @@
-# Cosmopolitan Security
+# CosmoSecurity
 
